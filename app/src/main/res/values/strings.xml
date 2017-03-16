@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tube Downloader</string>
+    <string name="download">Download</string>
+    <string name="enter_a_youtube_url">Enter a Youtube URL</string>
+    <string name="get_link">Get Link</string>
+    <string name="open_youtube">Open Youtube</string>
+    <string name="dialog_grant_permission_title">"Youtube Downloader" Would Like to Access Files on Your Device</string>
+    <string name="download_mp4_1080p">Download MP4 – 1080P</string>
+    <string name="download_mp4_720p">Download MP4 – 720P</string>
+    <string name="download_mp4_360p">Download MP4 – 360P</string>
+    <string name="download_mp4_240p">Download MP4 – 240P</string>
+    <string name="empty">Empty!</string>
+    <string name="help">Help</string>
+
+    <string name="open_youtube_and_share_video">Open Youtube and Share Video</string>
+    <string name="select_download_tube_to_download_video">Select Download Tube to download video</string>
+    <string name="select_floating_tube_to_play_floating_window">Select Floating Tube to Play in Floating Window</string>
+</resources>
